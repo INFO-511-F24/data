@@ -15,4 +15,4 @@ bechdel <- bechdel |>
 
 # write data -------------------------------------------------------------------
 
-write_csv(bechdel, file = here::here("data/bechdel.csv"))
+write_csv(bechdel, file = here::here("bechdel.csv"))
